@@ -19,3 +19,14 @@ scikit-learn>=0.22
 scikit-image>=0.16
 numpy
 pandas
+```
+## Download code
+```shell
+git clone https://github.com/MTSD-UPC/ML-2DUV.git
+cd ML-2DUV
+```
+## Overview
+
+Here is the step by step break down of how to use the codes.
+
+Step 1:
