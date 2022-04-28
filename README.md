@@ -1,7 +1,8 @@
 # ML-2DUV
 
-*last update: 2022/04/28 @Zhang Qian*
 This repository contains the analysis source demo code used in the paper "[Machine learning recognition of protein secondary structures based on two-dimensional spectroscopic descriptors](https://www.pnas.org/doi/full/10.1073/pnas.2202713119)" by Hao Ren et al.
+
+*last update: 2022/04/28 @Zhang Qian*
 
 <img src="workflow.jpg"/>
 
