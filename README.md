@@ -10,6 +10,31 @@ We recommend downloading datasets of small size which just 1.4 GB: [BaiDu Drive]
 
 You can also download a full dataset in size of 30 GB: [DCAIKU](http://dcaiku.com:13000/)
 
+All Spectral data was simulated using method from our another repository ([2duv_tutorial](https://github.com/MTSD-UPC/2duv_tutorial))
+## Data structure
+
+Take 1.4G dataset as an example:
+
+- original
+  - original_dataset.npz
+    - twoduv
+    - la
+    - cd
+    - labels
+  - original_transfer_dataset.npz
+    - ...
+ - homologous
+   - homologous_dataset.npz
+     - ...
+   - homologous_transfer_dataset.npz
+     - ...
+ - nonhomologous
+   - nonhomologous_dataset.npz
+     - ...
+   - nonhomologous_transfer_dataset.npz
+     - ...
+
+
 ## Prerequisite
 ```
 Python 3.X
@@ -25,8 +50,4 @@ pandas
 git clone https://github.com/MTSD-UPC/ML-2DUV.git
 cd ML-2DUV
 ```
-## Overview
 
-Here is the step by step break down of how to use the codes.
-
-Step 1:
