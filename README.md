@@ -9,11 +9,11 @@ This repository contains the analysis source demo code used in the paper "[Machi
 ## Download dataset
 We provide two kinds of datasets in different sizes.
 
-We recommend downloading datasets of small size which just 1.4 GB: [BaiDu Drive](https://pan.baidu.com/s/1VYTjBFhtAza4Jybajdkhsw?pwd=PNAS)(extract code:PNAS)
+We recommend downloading datasets of small size which just 1.4 GB: [BaiDu Drive](https://pan.baidu.com/s/1VYTjBFhtAza4Jybajdkhsw?pwd=PNAS)(extract code:PNAS) ,   [Google Drive](https://drive.google.com/file/d/1rcauC3Jwz3T-5WP-4cY9fEpp4huRxpKQ/view?usp=sharing).
 
-You can also download a full dataset in size of 30 GB: [DCAIKU](http://dcaiku.com:13000/)
+You can also download a full dataset in size of 30 GB: [DCAIKU](http://dcaiku.com:13000/).
 
-All Spectral data was simulated using method from our another repository ([2duv_tutorial](https://github.com/MTSD-UPC/2duv_tutorial))
+All Spectral data was simulated using method from our another repository ([2duv_tutorial](https://github.com/MTSD-UPC/2duv_tutorial)).
 ## Data structure
 
 Take 1.4G dataset as an example:
