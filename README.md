@@ -3,6 +3,7 @@
 This repository contains the the demo code for the secondary structure recognition  using 2DUV spectra, as described in the paper "Machine learning recognition of protein secondary structures based on two-dimensional spectroscopic descriptors" ([PNAS, 2022, DOI: 10.1073/pnas.2202713119](https://www.pnas.org/doi/full/10.1073/pnas.2202713119)). The whole data set were deposited on BaiDu Drive and Google Drive (see below), due to large size.
 
 *created: 2022/04/28 @Zhang Qian*
+
 *updated: 2022/05/01 @Hao Ren*
 
 <img src="workflow.jpg"/>
