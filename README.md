@@ -1,8 +1,9 @@
 # ML-2DUV
 
-This repository contains the analysis source demo code used in the paper "[Machine learning recognition of protein secondary structures based on two-dimensional spectroscopic descriptors](https://www.pnas.org/doi/full/10.1073/pnas.2202713119)" by Hao Ren et al.
+This repository contains the the demo code for the secondary structure recognition  using 2DUV spectra, as described in the paper "Machine learning recognition of protein secondary structures based on two-dimensional spectroscopic descriptors" ([PNAS, 2022, DOI: 10.1073/pnas.2202713119](https://www.pnas.org/doi/full/10.1073/pnas.2202713119)). The whole data set were deposited on BaiDu Drive and Google Drive (see below), due to large size.
 
-*last update: 2022/04/28 @Zhang Qian*
+*created: 2022/04/28 @Zhang Qian*
+*updated: 2022/05/01 @Hao Ren*
 
 <img src="workflow.jpg"/>
 
@@ -53,5 +54,4 @@ pandas
 git clone https://github.com/MTSD-UPC/ML-2DUV.git
 cd ML-2DUV
 ```
-
 
