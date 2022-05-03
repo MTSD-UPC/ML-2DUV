@@ -1,6 +1,6 @@
 # ML-2DUV
 
-This repository contains the the demo code for the secondary structure recognition  using 2DUV spectra, as described in the paper "Machine learning recognition of protein secondary structures based on two-dimensional spectroscopic descriptors" ([PNAS, 2022, DOI: 10.1073/pnas.2202713119](https://www.pnas.org/doi/full/10.1073/pnas.2202713119)). The whole data set were deposited on BaiDu Drive and Google Drive (see below), due to large size.
+This repository contains the the demo code for the secondary structure recognition  using 2DUV spectra, as described in the paper "Machine learning recognition of protein secondary structures based on two-dimensional spectroscopic descriptors" ([PNAS, 2022, DOI: 10.1073/pnas.2202713119](https://www.pnas.org/doi/full/10.1073/pnas.2202713119)). The whole data set were deposited on BaiDu Drive and Google Drive (see below), due to the large size.
 
 *created: 2022/04/28 @Zhang Qian*
 
@@ -9,7 +9,7 @@ This repository contains the the demo code for the secondary structure recogniti
 <img src="workflow.jpg"/>
 
 ## Download dataset
-We provide two kinds of datasets in different sizes.
+We provide two datasets with different sizes: a shrinked set of 1.4 GB for test and demo use, and the whole dataset of ~30 GB. Both datasets can be accessed via clound drives. 
 
 We recommend downloading datasets of small size which just 1.4 GB: [BaiDu Drive](https://pan.baidu.com/s/1VYTjBFhtAza4Jybajdkhsw?pwd=PNAS)(extract code:PNAS) ,   [Google Drive](https://drive.google.com/file/d/1rcauC3Jwz3T-5WP-4cY9fEpp4huRxpKQ/view?usp=sharing). 
 
